@@ -1,7 +1,7 @@
 title  = "godwin's law"
 author = "Travis Hoppe"
 target = "godwin.md"
-html_target = "presentation_godwin.html"
+html_target = "index.html"
 
 python_exec    = python
 md2reveal_exec = md2reveal/md2reveal.py

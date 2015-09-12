@@ -1,5 +1,5 @@
 # Godwin's Law
-_(on comments, nazis, and internet civility)
+_(on comments, nazis, and internet civility)_
 
 *[Travis Hoppe](http://thoppe.github.io/)*
 ----------
