@@ -48,9 +48,13 @@ PICTURE
 
 ### Dataset
 
-A few months ago, `u/stuck_in_the_matrix` download _every comment_ from Reddit. It took about 9 months 100 GB compressed and about 1 TB uncompressed raw json blobs.
+A few months ago, `u/stuck_in_the_matrix` [download](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/) _every comment_ from Reddit. It took about 9 months 100 GB compressed and about 1 TB uncompressed raw json blobs.
 
-XXXX submissions (posts) and XXXX comments.
+105,925,637 submissions (posts) and 971,555,203 comments.
+
+189,283 invokations of Godwin's law, 69,912 when considering conversations of length > 50.
+
+
 
 ====*
 
