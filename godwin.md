@@ -1,48 +1,57 @@
 # Godwin's Law
-_(on comments, nazis, and internet civility)_
+_(on comments, Nazis, and internet civility)_
 
-*[Travis Hoppe](http://thoppe.github.io/)*
+## *[Travis Hoppe](http://thoppe.github.io/)*
+
 ----------
-[placeholder](placeholder)
+
+permalink [thoppe.github.io/godwins_law/](http://thoppe.github.io/godwins_law/#/)
 
 ====
 
+### Godwin's Law
+An [eponymous](https://en.wikipedia.org/wiki/Eponym) law that states:
+
+> As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches 1
+
+No empirical studies to date! Let's test it!
+
+====*
+
 ## Godwin's Law
-An epynmous law that states:
 
-> BALH BALH
+#### Weak form
 
-NO emperical stuides to date! Let's test it!
+As an online discussion grows longer, the probability of a
+comparison involving Nazis or Hitler approaches 1.
 
-====*
+#### Strong form
 
-## Godwin's Law
-
-Weak form
-
-> BALH BALH
-
-Strong form
-
-> BALH BALH
+As an online discussion grows longer, the probability of a
+comparison involving Nazis or Hitler approaches 1
+*when not talking about the events of WWII*.
 
 ====*
 
-Why is this important?
+#### Why is this important? (aka the Greater Internet Fuckwad Theory)
+Premise: Conversation is a good thing, but ...
+!(images/gift.jpg)
 
-Premise: Conversation is a good thing, but 
+Any conversation is effectively over once someone makes a
+comparison to one of the worst genocides in history.
 
-ON THE INTERNET EVERYONE IS AN ASSHOLE.
-
-Any conversation is effectively over once someone makes a compairision to one of the worst genocides in history.
-
-Godwin's hypthesis is the implict assumption that conversation is over once the atrocites of the third Reich are invoked.
+Godwin's hypothesis is the implicit assumption that conversation
+is over once the atrocities of the third Reich are invoked.
 
 ====*
 
-Digression, eypnomous laws...
+_20 second digression_....
 
-PICTURE
+the [Wikipedia page of eponymous laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)...
+_how cool is this!?_
+
+!(images/wiki_ep.png)
+
 
 ====
 
@@ -56,9 +65,9 @@ XXXX submissions (posts) and XXXX comments.
 
 ### Methodology
 
-A nazi by any other name...
+A Nazi by any other name...
 
-PICTURE OF google sheet
+PICTURE OF Google sheet
 
 
 =====
@@ -72,7 +81,7 @@ PICTURE
 ### Ongoing research!
 
 What does the null look like?
-Does a conversation stop post-godwin?
+Does a conversation stop post-Godwin?
 
 ====
 
