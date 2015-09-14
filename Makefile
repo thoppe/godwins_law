@@ -17,6 +17,10 @@ edit:
 commit:
 	@-make push
 
+push:
+	git commit -a
+	git push
+
 check:
 	find . -maxdepth 1 -name "*.md" -exec aspell check {} \;
 

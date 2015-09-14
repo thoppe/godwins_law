@@ -1,6 +1,6 @@
 # Rendering for md2reveal
 .render_cache/
-
+.#*
 
 # Tmp files
 *~
