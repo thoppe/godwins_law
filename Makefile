@@ -1,4 +1,4 @@
-title  = "godwin's law"
+title  = "Godwin's law: on comments, Nazis, and internet civility"
 author = "Travis Hoppe"
 target = "godwin.md"
 html_target = "index.html"

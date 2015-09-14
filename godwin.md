@@ -1,28 +1,25 @@
 # Godwin's Law
 _(on comments, Nazis, and internet civility)_
 
-### *[Travis Hoppe](http://thoppe.github.io/)*
-
 ----------
-
-permalink [thoppe.github.io/godwins_law/](http://thoppe.github.io/godwins_law/#/)
+#### [Travis Hoppe](http://thoppe.github.io/)
+#### [thoppe.github.io/godwins_law/](http://thoppe.github.io/godwins_law/#/)
 
 ====
 
 ### Godwin's Law (weak form)
-> As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches 1
+> As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches 1.
 No empirical studies to date! Let's test it!
 ====+ 
 <br><br><br>
 ### Godwin's Law (strong form)
 As an online discussion grows longer, the probability of a
 comparison involving Nazis or Hitler approaches 1
-*when not talking about the events of WWII*.
+*when not talking about the events of WWII.*
 
 ====*
 
 #### Why is this important? (aka the Greater Internet Fuckwad Theory)
-Premise: Conversation is a good thing, but ...
 !(images/gift.jpg)
 
 Any conversation is effectively over once someone makes a
@@ -42,11 +39,11 @@ _how cool is this!?_
 ====
 
 ### Dataset
-Recently, `u/stuck_in_the_matrix` [downloaded _every comment_ from Reddit]((https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment) over
-9 months, 100 GB compressed, and about 1 TB uncompressed raw json blobs.
+Recently, `u/stuck_in_the_matrix` [downloaded _every comment_ from Reddit.]((https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment) 
+It took 9 months, is 100 GB compressed, and is about 1 TB uncompressed raw json.
 + 105,925,637 submissions (posts)
 + 971,555,203 comments
-+ 189,283 invokations of Godwin's law
++ 189,283 invocations of Godwin's law
 + 69,912 when considering conversations of length > 50
 ====+
 !(images/reddit_post_length.png)<<width:800;>>
@@ -65,13 +62,24 @@ happens in the first few hours...
 ### PTG (posts-to-Godwin)
 happens early comment order ... but comments continue!
 !(images/post.png)<<width:900px>> all Godwin posts with >50 comments
+=====*
+### Godwin invalidated...?
+Limiting probability of Godwin is about 0.00065, or 1 out of every 1500 posts.
+!(images/cum_prob.png)<<width:900px>> _all posts_ (Godwin/Non Godwin) with >50 comments
 ====
 
 ### Ongoing research!
 
-What does the null look like?
+What does the null look like? e.g. The Hitler vs puppies?
+
 Does a conversation stop post-Godwin?
 
-====
+What is the _quality_ of conversation post-Godwin?
+
+Can we try to prevent it? Should we?
+
+Is Reddit pathological or representative?
+
+====*
 
 # Thanks you!
