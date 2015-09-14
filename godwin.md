@@ -20,10 +20,13 @@ comparison involving Nazis or Hitler approaches 1
 ====*
 
 #### Why is this important? (aka the Greater Internet Fuckwad Theory)
-!(images/gift.jpg)
+!(images/gift.jpg)  <<height:215px>>
+!(images/gift2.jpg) <<height:215px>>
+
 
 Any conversation is effectively over once someone makes a
 comparison to one of the worst genocides in history.
+
 
 Godwin's hypothesis is the implicit assumption that conversation
 is over once the atrocities of the third Reich are invoked.
