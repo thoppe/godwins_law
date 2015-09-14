@@ -24,6 +24,9 @@ push:
 check:
 	find . -maxdepth 1 -name "*.md" -exec aspell check {} \;
 
+watch:
+	watch -n 1 make
+
 view:
 	chromium-browser $(html_target)
 
