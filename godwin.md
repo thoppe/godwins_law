@@ -2,23 +2,23 @@
 _(on comments, Nazis, and internet civility)_
 
 ----------
-#### [Travis Hoppe](http://thoppe.github.io/)
+### [Travis Hoppe](http://thoppe.github.io/)
 #### [thoppe.github.io/godwins_law/](http://thoppe.github.io/godwins_law/#/)
 
+### Featured on
+!(images/BuzzFeed_logo.png)
+[http://www.buzzfeed.com/hamzashaban/godwins-law-is-put-to-the-test](http://www.buzzfeed.com/hamzashaban/godwins-law-is-put-to-the-test)
 ====
-
-### Godwin's Law (weak form)
-> As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches 1.
-No empirical studies to date! Let's test it!
+### Godwin's Law 
+Mike Godwin ([Wired 1994](http://archive.wired.com/wired/archive/2.10/godwin.if_pr.html))
+> "As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches 1". 
+#### No empirical studies to date! Let's test it!
 ====+ 
-<br><br><br>
-### Godwin's Law (strong form)
-As an online discussion grows longer, the probability of a
-comparison involving Nazis or Hitler approaches 1
-*when not talking about the events of WWII.*
-
+!(images/S1.png) <<width:1000px>> 
+!(images/S2.png) <<width:1000px>> 
+!(images/S3.png) <<width:1000px>> 
+#### I think of empirical observations as testable. Sorry Mike...
 ====*
-
 #### Why is this important? (aka the Greater Internet Fuckwad Theory)
 !(images/gift.jpg)  <<height:215px>>
 !(images/gift2.jpg) <<height:215px>>
@@ -28,17 +28,15 @@ Any conversation is effectively over once someone makes a
 comparison to one of the worst genocides in history.
 
 
-Godwin's hypothesis is the implicit assumption that conversation
+An implicit assumption* is that conversation
 is over once the atrocities of the third Reich are invoked.
 
 ====*
+_...10 second digression on [eponymous](https://en.wikipedia.org/wiki/Eponym) laws_....
 
-_...20 second digression on [eponymous](https://en.wikipedia.org/wiki/Eponym) laws_....
-
-[Wikipedia page of eponymous laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)...
+[Wikipedia page of eponymous laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
 !(images/wiki_ep.png)
 _how cool is this!?_
-
 ====
 
 ### Dataset
