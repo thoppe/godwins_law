@@ -1,7 +1,11 @@
 title  = "Godwin's law: on comments, Nazis, and internet civility"
 author = "Travis Hoppe"
-target = "godwin.md"
-html_target = "index.html"
+
+#target = "godwin.md"
+#html_target = "index.html"
+
+target = "DC_lightning_godwin.md"
+html_target = "DC_lightning_index.html"
 
 python_exec    = python
 md2reveal_exec = md2reveal/md2reveal.py

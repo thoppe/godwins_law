@@ -1,8 +1,10 @@
 # Godwin's law presentation
 
-This branch is for the public presentation of the [Godwin's law](http://thoppe.github.io/godwins_law/#/) project.
+This branch is for the public presentations of the [Godwin's law](http://thoppe.github.io/godwins_law/#/) project.
 
-+ ***[DC Hack and Tell Round 24: Hose Stable Hattery](http://www.meetup.com/DC-Hack-and-Tell/events/220231779/)***, September 174, 2015, [presentation link](http://thoppe.github.io/godwins_law/#/)
++ ***[Data Science DC: Lightning Talks! (IV)](http://www.meetup.com/Data-Science-DC/events/225413582/)***, September 29, 2015, [presentation link](http://thoppe.github.io/godwins_law/DC_lightning_index.html)
+
++ ***[DC Hack and Tell Round 24: Hose Stable Hattery](http://www.meetup.com/DC-Hack-and-Tell/events/220231779/)***, September 14, 2015, [presentation link](http://thoppe.github.io/godwins_law/#/)
 
 ---------------
 ## Press

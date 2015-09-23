@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+
+    <title>Godwin's law: on comments, Nazis, and internet civility</title>
+    
+    <meta name="description" content="">
+    <meta name="author" content="Travis Hoppe">
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" 
+	  content="black-translucent" />
+
+    <meta name="viewport" content="width=device-width, 
+				   initial-scale=1.0, 
+				   maximum-scale=1.0, 
+				   user-scalable=no">
+
+    <link rel="stylesheet" href="reveal.js/css/reveal.css">
+
+    <!-- Default themes -->
+    <link rel="stylesheet" href="reveal.js/css/theme/simple.css" id="theme">
+    <link rel="stylesheet" href="reveal.js/css/theme/night.css" id="theme">
+
+    <!-- For syntax highlighting -->
+    <link rel="stylesheet" href="reveal.js/lib/css/zenburn.css">
+
+    <!-- For LaTeX formating highlighting -->
+    <link rel="stylesheet" href="md2reveal/css/md2reveal_style.css">
+
+    <!--[if lt IE 9]>
+	<script src="reveal.js/lib/js/html5shiv.js"></script>
+	<![endif]-->
+  </head>
+
+  <body>
+
+    <div class="reveal"><div class="slides">
+	<section class="vertical-stack">
+<section   class="vertical-slide">
+<p>
+<h1>Godwin's Law</h1><em>(on comments, Nazis, and internet civility)</em></p>
+<br>
+<hr>
+<p>
+<h4><a href="http://thoppe.github.io/">Travis Hoppe</a></h4><h4><a href="http://thoppe.github.io/godwins_law/#/">thoppe.github.io/godwins_law/</a></h4></p>
+</section>
+</section><section class="vertical-stack">
+<section   class="vertical-slide">
+<p>
+<h3>Godwin's Law (weak form)</h3></p>
+<blockquote>As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches 1.</blockquote>
+<p>
+No empirical studies to date! Let's test it!<div class="fragment"><br><br><br><h3>Godwin's Law (strong form)</h3>As an online discussion grows longer, the probability of a<br>comparison involving Nazis or Hitler approaches 1<br><strong>when not talking about the events of WWII.</strong><br></div></p>
+</section><section   class="vertical-slide">
+<p>
+<h4>Why is this important? (aka the Greater Internet Fuckwad Theory)</h4></p>
+<figure>
+    <a href="images/gift.jpg">
+    <img class="" src="images/gift.jpg" height="215px">
+    </a>
+    
+    </figure>
+<figure>
+    <a href="images/gift2.jpg">
+    <img class="" src="images/gift2.jpg" height="215px">
+    </a>
+    
+    </figure>
+<br>
+<br>
+<p>
+Any conversation is effectively over once someone makes a<br>comparison to one of the worst genocides in history.</p>
+<br>
+<br>
+<p>
+Godwin's hypothesis is the implicit assumption that conversation<br>is over once the atrocities of the third Reich are invoked.</p>
+</section><section   class="vertical-slide">
+<p>
+<em>...20 second digression on <a href="https://en.wikipedia.org/wiki/Eponym">eponymous</a> laws</em>....</p>
+<br>
+<p>
+<a href="https://en.wikipedia.org/wiki/List_of_eponymous_laws">Wikipedia page of eponymous laws</a>...</p>
+<figure>
+    <a href="images/wiki_ep.png">
+    <img class="" src="images/wiki_ep.png" >
+    </a>
+    
+    </figure>
+<p>
+<em>how cool is this!?</em></p>
+</section>
+</section><section class="vertical-stack">
+<section   class="vertical-slide">
+<p>
+<h3>Dataset</h3>Recently, <code>u/stuck_in_the_matrix</code> <a href="(https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment">downloaded _every comment_ from Reddit.</a><br>It took 9 months, is 100 GB compressed, and is about 1 TB uncompressed raw json.</p>
+<ul><li>105,925,637 submissions (posts)</li>
+<li>971,555,203 comments</li>
+<li>189,283 invocations of Godwin's law</li>
+<li>69,912 when considering conversations of length > 50</li></ul>
+<p>
+<div class="fragment"></p>
+<figure>
+    <a href="images/reddit_post_length.png">
+    <img class="" src="images/reddit_post_length.png" width="800">
+    </a>
+    
+    </figure>
+<p>
+</div></p>
+</section><section   class="vertical-slide">
+<p>
+<h3>Methodology</h3>A Nazi by any other name...</p>
+<br>
+<figure>
+    <a href="images/word_list.png">
+    <img class="" src="images/word_list.png" >
+    </a>
+    <figcaption>A Google Doc of pure evil</figcaption>
+    </figure>
+</section>
+</section><section class="vertical-stack">
+<section   class="vertical-slide">
+<p>
+<h3>TTG (time-to-Godwin)</h3>happens in the first few hours...</p>
+<figure>
+    <a href="images/time.png">
+    <img class="" src="images/time.png" width="900px">
+    </a>
+    <figcaption>all Godwin posts with >50 comments</figcaption>
+    </figure>
+</section><section   class="vertical-slide">
+<p>
+<h3>PTG (posts-to-Godwin)</h3>happens early comment order ... but comments continue!</p>
+<figure>
+    <a href="images/post.png">
+    <img class="" src="images/post.png" width="900px">
+    </a>
+    <figcaption>all Godwin posts with >50 comments</figcaption>
+    </figure>
+</section><section   class="vertical-slide">
+<p>
+<h3>Godwin invalidated...?</h3>Limiting probability of Godwin is about 0.00065, or 1 out of every 1500 posts.</p>
+<figure>
+    <a href="images/cum_prob.png">
+    <img class="" src="images/cum_prob.png" width="900px">
+    </a>
+    <figcaption><em>all posts</em> (Godwin/Non Godwin) with >50 comments</figcaption>
+    </figure>
+</section>
+</section><section class="vertical-stack">
+<section   class="vertical-slide">
+<p>
+<h3>Ongoing research!</h3></p>
+<br>
+<p>
+What does the null look like? e.g. The Hitler vs puppies?</p>
+<br>
+<p>
+Does a conversation stop post-Godwin?</p>
+<br>
+<p>
+What is the <em>quality</em> of conversation post-Godwin?</p>
+<br>
+<p>
+Can we try to prevent it? Should we?</p>
+<br>
+<p>
+Is Reddit pathological or representative?</p>
+</section><section   class="vertical-slide">
+<p>
+<h1>Thanks you!</h1></p>
+</section>
+</section>
+    </div></div>
+
+    <script src="reveal.js/lib/js/head.min.js"></script>
+    <script src="reveal.js/js/reveal.js"></script>
+
+    <script>
+      // Full list of configuration options available here:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+      overview: true, height: 900, keyboard: {37: 'prev', 39: 'next'}, touch: true, hideAddressBar: true, rollingLinks: false, mouseWheel: true, controls: false, width: 1200, viewDistance: 3, rtl: false, progress: true, fragments: true, autoSlide: 0, autoSlideStoppable: true, backgroundtransition: "default", transitionSpeed: "default", slideNumber: true, center: true, embedded: true, transition: "default", maxScale: 1.2, minScale: 0.2, previewLinks: false, margin: 0.05, loop: false, history: true, 
+      
+      theme: Reveal.getQueryHash().theme, 
+      // available themes are in reveal.js/css/theme
+
+      // Optional libraries used to extend on reveal.js
+      dependencies: [ { src: 'reveal.js/lib/js/classList.js', condition: function() { 
+    return !document.body.classList; } },
+
+{ src: 'reveal.js/plugin/markdown/showdown.js', condition: function() { 
+    return !!document.querySelector( '[data-markdown]' ); } },
+
+{ src: 'reveal.js/plugin/markdown/markdown.js', condition: function() { 
+    return !!document.querySelector( '[data-markdown]' ); } },
+
+{ src: 'reveal.js/plugin/highlight/highlight.js', async: true, callback: 
+  function() { hljs.initHighlightingOnLoad(); } },
+
+{ src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: 
+  function() { return !!document.body.classList; } },
+ ]
+
+      });
+    </script>
+
+  </body>
+</html>
